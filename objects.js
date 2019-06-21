@@ -1,5 +1,5 @@
 let playlist = {
-  LilWayne : 'A Milli',
+  LilWayne : "A Milli",
   BiggieSmalls : 'Juicy',
   KendrickLamar : 'Humble'
 };
