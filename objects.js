@@ -2,7 +2,7 @@ let playlist = {
   LilWayne : 'A Milli',
   BiggieSmalls : 'Juicy',
   KendrickLamar : 'Humble'
-}
+};
 
 function updatePlaylist(obj, artistName, songTitle){
   obj.artistName = songTitle;
